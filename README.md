@@ -1,4 +1,4 @@
-Build a Powerful Teacher Management System with Django
+******Build a Powerful Teacher Management System with Django
 
 # Overview
 This repository contains the code for a complete Teacher Management System (TMS) developed using the Django framework. 
@@ -41,3 +41,4 @@ This project is based on the step-by-step video tutorial provided by the Brokly 
 1. Start the Server: Run the Django development server:
 2. Access the Application: Open your browser and navigate to the local server address (e.g., http://127.0.0.1:8000/). The application is typically configured to show the login/registration page first.
 3. Admin Access: The admin panel can be accessed via the /admin/ path (e.g., http://127.0.0.1:8000/admin/)
+******
